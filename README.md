@@ -1,2 +1,2 @@
 # model-training-template-for-aws
-Boilerplate template to train AI models on AWS with CUDA
+Boilerplate template to train Behemoth AI models on AWS EC2
